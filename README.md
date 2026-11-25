@@ -45,11 +45,11 @@ Desarrollo aplicaciones web y móviles, sistemas empresariales y soluciones de I
 
 ## Kontax.pro
 
-**Tax intelligence for Venezuelan businesses and accounting firms / Inteligencia fiscal para empresas y firmas contables venezolanas**
+[![Kontax.pro — Inteligencia fiscal para empresas y firmas contables venezolanas. Facturas y comprobantes, extracción y clasificación con IA, control y proyección de impuestos.](assets/kontax-feature.png)](https://www.kontax.pro/)
 
-> **EN** — I work on Kontax.pro, a tax intelligence platform that uses AI to process and classify invoices and receipts. The platform connects document intake with accounting workflows, tax tracking and projections, financial dashboards, and reporting across multiple companies.
->
-> **ES** — Trabajo en Kontax.pro, una plataforma de inteligencia fiscal que utiliza IA para procesar y clasificar facturas y comprobantes. La plataforma conecta la recepción de documentos con flujos contables, seguimiento y proyección de impuestos, tableros financieros y reportes para varias empresas.
+**EN** · I work on Kontax.pro, where AI-assisted document processing feeds accounting workflows, financial dashboards, and tax reporting across multiple companies.
+
+**ES** · Trabajo en Kontax.pro, donde el procesamiento de documentos con IA alimenta los flujos contables, los tableros financieros y los reportes fiscales de varias empresas.
 
 [Visit Kontax.pro / Visitar Kontax.pro](https://www.kontax.pro/)
 
