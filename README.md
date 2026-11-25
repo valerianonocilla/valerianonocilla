@@ -1,10 +1,25 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Abstract illustration of connected enterprise systems and data flows" width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Valeriano%20Nocilla&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=40" alt="Valeriano Nocilla">
 </p>
 
-<h1 align="center">Valeriano Nocilla</h1>
-<p align="center"><strong>Software Engineering · Enterprise Systems · Applied AI</strong><br>Ingeniería de software · Sistemas empresariales · IA aplicada</p>
-<p align="center"><a href="#english">English</a> · <a href="#español">Español</a> · <a href="#kontaxpro">Kontax.pro</a> · <a href="#technology-stack--tecnologías">Stack</a> · <a href="#github-activity--actividad-en-github">Activity / Actividad</a></p>
+<p align="center">
+  <img width="630" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1400&amp;color=367BCD&amp;center=true&amp;vCenter=true&amp;width=630&amp;lines=Software+Engineering+%2F+Ingenier%C3%ADa+de+Software;Enterprise+Systems+%2F+Sistemas+Empresariales;Applied+AI+%2F+IA+Aplicada" alt="Software engineering · Enterprise systems · Applied AI / Ingeniería de software · Sistemas empresariales · IA aplicada">
+</p>
+
+<p align="center">
+  <strong>Web &amp; Mobile · ERP / MRP / MES · BI &amp; Data Mining · AI Agents</strong><br>
+  Web y móvil · ERP / MRP / MES · BI y minería de datos · Agentes de IA
+</p>
+
+<p align="center">
+  <a href="#english">English</a> · <a href="#español">Español</a> · <a href="#kontaxpro">Kontax.pro</a> · <a href="#technology-stack--tecnologías">Stack</a> · <a href="#github-activity--actividad-en-github">GitHub Activity</a>
+</p>
+
+<p align="center">
+  <a href="https://www.kontax.pro/"><img src="https://img.shields.io/badge/Kontax.pro-Tax%20Intelligence-176B87?style=for-the-badge" alt="Kontax.pro · Tax intelligence"></a>
+  <a href="https://github.com/valerianonocilla?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-252B33?style=for-the-badge&amp;logo=github" alt="GitHub repositories"></a>
+  <a href="https://github.com/valerianonocilla?tab=followers"><img src="https://img.shields.io/github/followers/valerianonocilla?style=for-the-badge&amp;label=Followers" alt="GitHub followers"></a>
+</p>
 
 ---
 
@@ -58,6 +73,10 @@ Desarrollo aplicaciones web y móviles, sistemas empresariales y soluciones de I
 
 ## Technology stack / Tecnologías
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,postgres,supabase,docker,git,github&amp;perline=6" alt="TypeScript, JavaScript, Python, React, Next.js, Tailwind CSS, PostgreSQL, Supabase, Docker, Git, and GitHub">
+</p>
+
 **Languages / Lenguajes**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827&labelColor=F7DF1E&color=DFB928) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white&labelColor=306998) ![SQL](https://img.shields.io/badge/SQL-43536B?style=flat-square&logoColor=white&labelColor=43536B)
@@ -78,6 +97,8 @@ Desarrollo aplicaciones web y móviles, sistemas empresariales y soluciones de I
 
 ## GitHub activity / Actividad en GitHub
 
+### Contribution streak / Racha de contribuciones
+
 <p align="center">
   <a href="https://github.com/valerianonocilla#js-contribution-activity">
     <picture>
@@ -90,6 +111,22 @@ Desarrollo aplicaciones web y móviles, sistemas empresariales y soluciones de I
 The ring shows the current streak in days. The card tracks contributions visible on GitHub, including eligible commits, issues, pull requests, and reviews.
 
 El círculo muestra la racha actual en días. La tarjeta cuenta las contribuciones visibles en GitHub, incluidos commits, incidencias, pull requests y revisiones que cumplen los criterios de la plataforma.
+
+### Activity graph / Gráfico de actividad
+
+<p align="center">
+  <a href="https://github.com/valerianonocilla#js-contribution-activity">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=valerianonocilla&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=Public%20GitHub%20Activity" alt="Recent GitHub contribution activity / Actividad reciente de contribuciones en GitHub">
+  </a>
+</p>
+
+### Public repository languages / Lenguajes de repositorios públicos
+
+<p align="center">
+  <img width="380" src="https://github-readmeapp.vercel.app/api/top-langs/?username=valerianonocilla&amp;layout=donut&amp;theme=github_dark" alt="Language distribution for the public repositories included by the GitHub stats card">
+</p>
+
+<sub>Language mix in the public repositories sampled by the card. / Distribución de lenguajes en los repositorios públicos incluidos en la tarjeta.</sub>
 
 [Contribution calendar / Calendario de contribuciones](https://github.com/valerianonocilla#js-contribution-activity)
 
@@ -109,3 +146,9 @@ El círculo muestra la racha actual en días. La tarjeta cuenta las contribucion
 **Public repository / Repositorio público** — [Solana Vanity Wallet Generator](https://github.com/valerianonocilla/Solana-Vanity-Wallet-Generator).
 
 </details>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=90&amp;section=footer" alt="">
+</p>
