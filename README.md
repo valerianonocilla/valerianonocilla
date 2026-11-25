@@ -1,62 +1,56 @@
-# 👋 Hi, I'm Valeriano Nocilla!
+# Valeriano Nocilla
 
-### 🛠️ Blockchain Developer | 🚀 Crypto Tools Specialist | ⚙️ MEV, Nodes & Snipers
+[English](#english) · [Español](#español) · [Blockchain / Web3](#blockchain--web3)
 
-Welcome to my GitHub profile! I specialize in building innovative solutions in the blockchain and crypto world. From bots and snipers to custom nodes and MEV strategies, my goal is to create tools that maximize profitability in the decentralized space. 🌐
+## English
 
----
+**Web development · Custom ERP, MRP & MES · Business intelligence**
 
-### 🌟 Skills & Technologies
+I build web applications and custom ERP solutions that connect day-to-day operations with the data businesses need to make decisions. My work spans customer portals, billing and financial tools, ERP extensions, and reporting.
 
-#### **Blockchains & Protocols**
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Binance Smart Chain](https://img.shields.io/badge/-BSC-F3BA2F?style=flat-square&logo=binance&logoColor=white)
-![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana&logoColor=black)
-![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
+- **Web applications and business solutions** — Customer portals, internal tools, e-commerce, invoicing, and financial workflows. I build interfaces, APIs, and integrations around the way each business operates.
+- **Custom ERP, MRP, and MES** — Enterprise resource planning for accounting, inventory, payroll, and HR, plus material requirements planning and shop-floor execution. I also work on Venezuelan fiscal localization for Odoo and on integrating and migrating data from legacy systems.
+- **Business intelligence and data mining** — Data extraction, cleaning, reconciliation, and analysis. I build dashboards and operational reports to track KPIs, identify patterns, and investigate discrepancies.
 
-#### **Programming Languages**
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Español
 
-#### **Tools & Frameworks**
-![Hardhat](https://img.shields.io/badge/-Hardhat-FFCB2B?style=flat-square&logo=ethereum&logoColor=black)
-![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat-square&logo=foundry&logoColor=white)
-![Anchor](https://img.shields.io/badge/-Anchor-FF9A00?style=flat-square&logo=solana&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=javascript&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-2D79C7?style=flat-square&logo=ethereum&logoColor=white)
+**Desarrollo web · ERP a medida, MRP y MES · Inteligencia de negocios**
 
-#### **Infrastructure & Nodes**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Alchemy](https://img.shields.io/badge/-Alchemy-3563E9?style=flat-square&logo=alchemy&logoColor=white)
-![Infura](https://img.shields.io/badge/-Infura-F24E1E?style=flat-square&logo=ethereum&logoColor=white)
+Desarrollo aplicaciones web y soluciones ERP a medida que conectan la operación diaria con los datos que las empresas necesitan para tomar decisiones. Trabajo en portales de clientes, herramientas de facturación y finanzas, extensiones de ERP y reportería.
 
----
+- **Aplicaciones web y soluciones empresariales** — Portales de clientes, herramientas internas, comercio electrónico, facturación y flujos financieros. Desarrollo interfaces, API e integraciones adaptadas a la operación de cada negocio.
+- **ERP a medida, MRP y MES** — Gestión de contabilidad, inventario, nómina y recursos humanos, además de planificación de materiales y control de la ejecución en planta. También trabajo en localización fiscal venezolana para Odoo y en la integración y migración de datos de sistemas heredados.
+- **Inteligencia de negocios y minería de datos** — Extracción, limpieza, conciliación y análisis de datos. Desarrollo tableros e informes operativos para dar seguimiento a indicadores, detectar patrones e investigar discrepancias.
 
-### 🏆 Featured Projects
+## Technology stack / Tecnologías
 
-- **[Ethereum MEV Bot](#)**: Optimized bot for extracting maximum value (MEV) with advanced frontrunning and backrunning strategies. Integrated with Flashbots.
-- **[BSC Sniper Bot](#)**: Python-based bot to detect and buy tokens in the initial block, ensuring high profitability.
-- **[Custom RPC Node](#)**: Ethereum/Polygon node optimized with load balancers and caching for decentralized applications (DApps).
-- **[Solana NFT Minters](#)**: High-speed NFT minting tool on Solana blockchain using Anchor and Rust.
+| Area / Área | Technologies / Tecnologías |
+| --- | --- |
+| Languages / Lenguajes | TypeScript, JavaScript, Python, SQL |
+| Web and apps / Web y aplicaciones | React, Next.js, React Native, Tailwind CSS |
+| ERP and integrations / ERP e integraciones | Odoo, REST APIs |
+| Databases and data platforms / Bases de datos y plataformas de datos | PostgreSQL, MariaDB, Microsoft SQL Server, Supabase |
+| Development and infrastructure / Desarrollo e infraestructura | Git, GitHub, Docker |
 
----
+## Public ERP project / Proyecto ERP público
 
-### 📈 GitHub Stats
+**[Venezuelan localization for Odoo / Localización venezolana para Odoo](https://github.com/valerianonocilla/l10n-venezuela-bw)**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valerianonocilla&show_icons=true&theme=radical)
+Fiscal and payroll localization covering VAT, tax withholding, fiscal books, and point-of-sale requirements.
 
----
+Localización fiscal y de nómina que abarca IVA, retenciones, libros fiscales y requisitos de punto de venta.
 
-### 🚀 Ready to Collaborate?
+## Blockchain / Web3
 
-🔗 **[Portfolio](#)**  
-📧 **[Email](#)**  
-📱 **[LinkedIn](#)**  
-🔒 **[PGP Key](#)** _(Optional for extra security)_
+<details>
+<summary>Blockchain experience / Experiencia en blockchain</summary>
 
----
+Separate projects in smart contracts, RPC node infrastructure, and on-chain automation across Ethereum, BNB Smart Chain, Polygon, and Solana.
 
-✨ _Thank you for visiting my profile. Let's connect and build the next big solution in blockchain!_
+Proyectos independientes de contratos inteligentes, infraestructura de nodos RPC y automatización en cadena en Ethereum, BNB Smart Chain, Polygon y Solana.
+
+**Tools / Herramientas** — Solidity, Rust, Hardhat, Foundry, Anchor, web3.js, ethers.js.
+
+**Public repository / Repositorio público** — [Solana Vanity Wallet Generator](https://github.com/valerianonocilla/Solana-Vanity-Wallet-Generator).
+
+</details>
