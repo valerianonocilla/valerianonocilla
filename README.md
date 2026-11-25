@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Valeriano%20Nocilla&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=40" alt="Valeriano Nocilla">
+  <img width="960" src="assets/terminal-wordmark.png" alt="Valeriano Nocilla, rendered in terminal symbols">
 </p>
 
 <p align="center">
@@ -29,15 +29,7 @@
 
 I develop web and mobile applications, enterprise systems, and applied AI solutions. My work connects business requirements with software delivery, from application architecture and data modeling to integrations, workflow automation, and operational reporting.
 
-| Focus | What I build |
-| --- | --- |
-| **Web and mobile application development** | Customer portals, internal applications, e-commerce, and billing products. Responsive interfaces, role-based access, APIs, and integrations. |
-| **Applied AI** | Document processing, information extraction, and classification. Integration of models into business applications with validation and review steps. |
-| **AI agents and workflow automation** | Assistants and agents that retrieve business context, use tools and APIs, and coordinate multistep workflows with human review where needed. |
-| **Custom ERP and business solutions** | Workflows for sales, purchasing, inventory, accounting, billing, payroll, and HR. Business rules, approvals, and integrations tailored to each operation. |
-| **MRP and MES** | Bills of materials, material requirements, production orders, and inventory availability. Shop-floor execution, work-in-progress tracking, and production traceability. |
-| **Business intelligence and data mining** | Data extraction, cleaning, and reconciliation. SQL reporting, KPI dashboards, and analysis to identify patterns and investigate operational discrepancies. |
-| **Data and systems integration** | Migration from legacy systems, data mapping, and validation of imported records. API and file-based exchanges between operational and financial systems. |
+![Web & mobile: Customer portals, internal apps, e-commerce and billing.; Applied AI: Document processing, extraction and classification.; AI agents: Tool use, APIs and workflows with human review.; ERP · MRP · MES: Sales, accounting, payroll, material planning and shop-floor traceability.; BI & data mining: KPI dashboards, SQL reporting and reconciliation.; Data integration: Systems integration, legacy migration and data validation.](assets/specialties-en.png)
 
 ---
 
@@ -47,15 +39,7 @@ I develop web and mobile applications, enterprise systems, and applied AI soluti
 
 Desarrollo aplicaciones web y móviles, sistemas empresariales y soluciones de IA aplicada. Traduzco los requisitos del negocio en software, desde la arquitectura de aplicaciones y el modelado de datos hasta las integraciones, la automatización de flujos y los informes operativos.
 
-| Área | Qué desarrollo |
-| --- | --- |
-| **Desarrollo de aplicaciones web y móviles** | Portales de clientes, aplicaciones internas, comercio electrónico y soluciones de facturación. Interfaces adaptables, acceso por roles, API e integraciones. |
-| **Inteligencia artificial aplicada** | Procesamiento de documentos, extracción de información y clasificación. Integración de modelos en aplicaciones empresariales con etapas de validación y revisión. |
-| **Agentes de IA y automatización de flujos** | Asistentes y agentes que consultan datos del negocio, usan herramientas y API y coordinan procesos de varios pasos con revisión humana cuando corresponde. |
-| **ERP a medida y soluciones empresariales** | Flujos de ventas, compras, inventario, contabilidad, facturación, nómina y recursos humanos. Reglas de negocio, aprobaciones e integraciones adaptadas a cada operación. |
-| **MRP y MES** | Listas de materiales, cálculo de necesidades, órdenes de producción y disponibilidad de inventario. Ejecución en planta, seguimiento de órdenes en curso y trazabilidad de la producción. |
-| **Inteligencia de negocios y minería de datos** | Extracción, limpieza y conciliación de datos. Reportes SQL, tableros de indicadores y análisis para detectar patrones e investigar discrepancias operativas. |
-| **Integración de sistemas y datos** | Migración desde sistemas heredados, mapeo de datos y validación de registros importados. Intercambio por API y archivos entre sistemas operativos y financieros. |
+![Web y móvil: Portales de clientes, apps internas, comercio electrónico y facturación.; IA aplicada: Procesamiento de documentos, extracción y clasificación.; Agentes de IA: Herramientas, API y flujos con revisión humana.; ERP · MRP · MES: Ventas, contabilidad, nómina, planificación y trazabilidad en planta.; BI y minería de datos: Tableros de indicadores, reportes SQL y conciliación.; Integración de datos: Integración de sistemas, migración y validación de datos.](assets/specialties-es.png)
 
 ---
 
@@ -97,38 +81,13 @@ Desarrollo aplicaciones web y móviles, sistemas empresariales y soluciones de I
 
 ## GitHub activity / Actividad en GitHub
 
-### Contribution streak / Racha de contribuciones
+![Private GitHub activity: 1,559 attributed commits, 92 active days, and 10 active private repositories from November 26, 2025 through November 25, 2026](assets/private-activity.png)
 
-<p align="center">
-  <a href="https://github.com/valerianonocilla#js-contribution-activity">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=valerianonocilla&amp;theme=github-dark-blue&amp;ring=5EEAD4&amp;fire=5EEAD4">
-      <img src="https://streak-stats.demolab.com/?user=valerianonocilla&amp;theme=default&amp;ring=0E9384&amp;fire=0E9384" alt="GitHub activity with total contributions, current streak, and longest streak">
-    </picture>
-  </a>
-</p>
+**EN** · GitHub API snapshot for Nov 26, 2025 through Nov 25, 2026 at noon (UTC−4). The ring shows **92 of 365 days** with attributed commits. Counts use unique commits linked to this account on the default branches of accessible private repositories.
 
-The ring shows the current streak in days. The card tracks contributions visible on GitHub, including eligible commits, issues, pull requests, and reviews.
+**ES** · Datos de la API de GitHub del 26 nov 2025 al 25 nov 2026 al mediodía (UTC−4). El círculo muestra **92 de 365 días** con commits atribuidos. Se cuentan commits únicos vinculados a esta cuenta en las ramas predeterminadas de los repositorios privados accesibles.
 
-El círculo muestra la racha actual en días. La tarjeta cuenta las contribuciones visibles en GitHub, incluidos commits, incidencias, pull requests y revisiones que cumplen los criterios de la plataforma.
-
-### Activity graph / Gráfico de actividad
-
-<p align="center">
-  <a href="https://github.com/valerianonocilla#js-contribution-activity">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=valerianonocilla&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=Public%20GitHub%20Activity" alt="Recent GitHub contribution activity / Actividad reciente de contribuciones en GitHub">
-  </a>
-</p>
-
-### Public repository languages / Lenguajes de repositorios públicos
-
-<p align="center">
-  <img width="380" src="https://github-readmeapp.vercel.app/api/top-langs/?username=valerianonocilla&amp;layout=donut&amp;theme=github_dark" alt="Language distribution for the public repositories included by the GitHub stats card">
-</p>
-
-<sub>Language mix in the public repositories sampled by the card. / Distribución de lenguajes en los repositorios públicos incluidos en la tarjeta.</sub>
-
-[Contribution calendar / Calendario de contribuciones](https://github.com/valerianonocilla#js-contribution-activity)
+[Public contribution calendar / Calendario público de contribuciones](https://github.com/valerianonocilla#js-contribution-activity)
 
 ---
 
