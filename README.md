@@ -3,18 +3,22 @@
 </p>
 
 <h1 align="center">Valeriano Nocilla</h1>
-<p align="center"><strong>Web Development · Custom ERP, MRP &amp; MES · Business Intelligence</strong><br>Desarrollo web · ERP a medida, MRP y MES · Inteligencia de negocios</p>
-<p align="center"><a href="#english">English</a> · <a href="#español">Español</a> · <a href="#technology-stack--tecnologías">Stack</a> · <a href="#github-activity--actividad-en-github">Activity / Actividad</a></p>
+<p align="center"><strong>Software Engineering · Enterprise Systems · Applied AI</strong><br>Ingeniería de software · Sistemas empresariales · IA aplicada</p>
+<p align="center"><a href="#english">English</a> · <a href="#español">Español</a> · <a href="#kontaxpro">Kontax.pro</a> · <a href="#technology-stack--tecnologías">Stack</a> · <a href="#github-activity--actividad-en-github">Activity / Actividad</a></p>
 
 ---
 
 ## English
 
-I build web applications and enterprise systems that connect sales, finance, inventory, manufacturing, and reporting. My work covers application development, integrations, data migration, and the reports teams use to run their operations.
+**Professional profile**
+
+I develop web and mobile applications, enterprise systems, and applied AI solutions. My work connects business requirements with software delivery, from application architecture and data modeling to integrations, workflow automation, and operational reporting.
 
 | Focus | What I build |
 | --- | --- |
-| **Professional web development** | Customer portals, internal applications, e-commerce, and billing tools. Responsive interfaces, role-based access, and API integrations. |
+| **Web and mobile application development** | Customer portals, internal applications, e-commerce, and billing products. Responsive interfaces, role-based access, APIs, and integrations. |
+| **Applied AI** | Document processing, information extraction, and classification. Integration of models into business applications with validation and review steps. |
+| **AI agents and workflow automation** | Assistants and agents that retrieve business context, use tools and APIs, and coordinate multistep workflows with human review where needed. |
 | **Custom ERP and business solutions** | Workflows for sales, purchasing, inventory, accounting, billing, payroll, and HR. Business rules, approvals, and integrations tailored to each operation. |
 | **MRP and MES** | Bills of materials, material requirements, production orders, and inventory availability. Shop-floor execution, work-in-progress tracking, and production traceability. |
 | **Business intelligence and data mining** | Data extraction, cleaning, and reconciliation. SQL reporting, KPI dashboards, and analysis to identify patterns and investigate operational discrepancies. |
@@ -24,15 +28,31 @@ I build web applications and enterprise systems that connect sales, finance, inv
 
 ## Español
 
-Desarrollo aplicaciones web y sistemas empresariales que conectan ventas, finanzas, inventario, producción y reportería. Mi trabajo abarca el desarrollo de aplicaciones, las integraciones, la migración de datos y los informes que los equipos usan para gestionar su operación.
+**Perfil profesional**
+
+Desarrollo aplicaciones web y móviles, sistemas empresariales y soluciones de IA aplicada. Traduzco los requisitos del negocio en software, desde la arquitectura de aplicaciones y el modelado de datos hasta las integraciones, la automatización de flujos y los informes operativos.
 
 | Área | Qué desarrollo |
 | --- | --- |
-| **Desarrollo web profesional** | Portales de clientes, aplicaciones internas, comercio electrónico y herramientas de facturación. Interfaces adaptables, acceso por roles e integraciones mediante API. |
+| **Desarrollo de aplicaciones web y móviles** | Portales de clientes, aplicaciones internas, comercio electrónico y soluciones de facturación. Interfaces adaptables, acceso por roles, API e integraciones. |
+| **Inteligencia artificial aplicada** | Procesamiento de documentos, extracción de información y clasificación. Integración de modelos en aplicaciones empresariales con etapas de validación y revisión. |
+| **Agentes de IA y automatización de flujos** | Asistentes y agentes que consultan datos del negocio, usan herramientas y API y coordinan procesos de varios pasos con revisión humana cuando corresponde. |
 | **ERP a medida y soluciones empresariales** | Flujos de ventas, compras, inventario, contabilidad, facturación, nómina y recursos humanos. Reglas de negocio, aprobaciones e integraciones adaptadas a cada operación. |
 | **MRP y MES** | Listas de materiales, cálculo de necesidades, órdenes de producción y disponibilidad de inventario. Ejecución en planta, seguimiento de órdenes en curso y trazabilidad de la producción. |
 | **Inteligencia de negocios y minería de datos** | Extracción, limpieza y conciliación de datos. Reportes SQL, tableros de indicadores y análisis para detectar patrones e investigar discrepancias operativas. |
 | **Integración de sistemas y datos** | Migración desde sistemas heredados, mapeo de datos y validación de registros importados. Intercambio por API y archivos entre sistemas operativos y financieros. |
+
+---
+
+## Kontax.pro
+
+**Tax intelligence for Venezuelan businesses and accounting firms / Inteligencia fiscal para empresas y firmas contables venezolanas**
+
+> **EN** — I work on Kontax.pro, a tax intelligence platform that uses AI to process and classify invoices and receipts. The platform connects document intake with accounting workflows, tax tracking and projections, financial dashboards, and reporting across multiple companies.
+>
+> **ES** — Trabajo en Kontax.pro, una plataforma de inteligencia fiscal que utiliza IA para procesar y clasificar facturas y comprobantes. La plataforma conecta la recepción de documentos con flujos contables, seguimiento y proyección de impuestos, tableros financieros y reportes para varias empresas.
+
+[Visit Kontax.pro / Visitar Kontax.pro](https://www.kontax.pro/)
 
 ---
 
@@ -53,16 +73,6 @@ Desarrollo aplicaciones web y sistemas empresariales que conectan ventas, finanz
 **Integration & infrastructure / Integración e infraestructura**
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white&labelColor=714B67) ![REST APIs](https://img.shields.io/badge/REST%20APIs-314463?style=flat-square&logoColor=white&labelColor=314463) ![Docker](https://img.shields.io/badge/Docker-1766A6?style=flat-square&logo=docker&logoColor=white&labelColor=1766A6) ![Git](https://img.shields.io/badge/Git-A73C2C?style=flat-square&logo=git&logoColor=white&labelColor=A73C2C) ![GitHub](https://img.shields.io/badge/GitHub-252B33?style=flat-square&logo=github&logoColor=white&labelColor=252B33)
-
----
-
-## Featured project / Proyecto destacado
-
-> **[Venezuelan localization for Odoo / Localización venezolana para Odoo](https://github.com/valerianonocilla/l10n-venezuela-bw)**
->
-> Public ERP repository for Venezuelan fiscal and payroll localization, including VAT, tax withholding, fiscal books, and point-of-sale requirements.
->
-> Repositorio público de localización fiscal y de nómina para Venezuela. Incluye IVA, retenciones, libros fiscales y requisitos de punto de venta.
 
 ---
 
@@ -90,9 +100,9 @@ El círculo muestra la racha actual en días. La tarjeta cuenta las contribucion
 <details>
 <summary>Blockchain experience / Experiencia en blockchain</summary>
 
-Independent projects involving smart contracts, RPC node infrastructure, and on-chain automation across Ethereum, BNB Smart Chain, Polygon, and Solana.
+**EN** — Specialist blockchain and Web3 development across Ethereum, BNB Smart Chain, Polygon, and Solana. Expertise spans smart contracts, decentralized applications, Web3 integrations, RPC node infrastructure, on-chain monitoring, front-running programs, and MEV bots.
 
-Proyectos independientes de contratos inteligentes, infraestructura de nodos RPC y automatización en cadena en Ethereum, BNB Smart Chain, Polygon y Solana.
+**ES** — Desarrollo especializado en blockchain y Web3 en Ethereum, BNB Smart Chain, Polygon y Solana. Experiencia en contratos inteligentes, aplicaciones descentralizadas, integraciones Web3, infraestructura de nodos RPC, monitoreo en cadena, programas de front-running y bots MEV.
 
 **Tools / Herramientas** — Solidity, Rust, Hardhat, Foundry, Anchor, web3.js, ethers.js.
 
